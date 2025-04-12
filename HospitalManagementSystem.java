@@ -8,7 +8,7 @@ public class HospitalManagementSystem {
     private static final String url = "jdbc:mysql://localhost:3306/hospital?useSSL=false&serverTimezone=UTC";
 
     private static final String username="root" ;
-    private static final String password="radhika";
+    private static final String password="YOUR_PASS";
 
     public static void main(String[] args) {
         try{
